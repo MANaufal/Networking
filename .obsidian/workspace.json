@@ -39,14 +39,13 @@
             "id": "ba966ac15c36976a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Subnetting/What is Subnetting.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "What is Subnetting"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           }
         ],
@@ -216,12 +215,14 @@
   },
   "active": "ba966ac15c36976a",
   "lastOpenFiles": [
-    "2026-08-05.md",
+    "README.md",
+    "Routers.md",
+    "Networking Roadmap.md",
     "Subnetting/What is Subnetting.md",
+    "2026-08-05.md",
     "TCP IP",
     "Untitled.md",
     "Subnetting/Cheat Sheet.md",
-    "Networking Roadmap.md",
     "Routing Table.md",
     "Switches.md",
     "Untitled.base",
@@ -243,8 +244,6 @@
     "Protocols/SMTP - Simple Mail Transfer Protocol.md",
     "Protocols/HTTPS - Secured HTTP.md",
     "Protocols/HTTP - Hyper Text Transfer Protocol.md",
-    "Protocols/FTP - File Transfer Protocol.md",
-    "Protocols/DHCP - Dynamic Host Configuration Protocol.md",
     "OSI Model",
     "Protocols",
     "Routing Table"
