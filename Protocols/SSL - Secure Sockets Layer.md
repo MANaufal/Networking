@@ -1,0 +1,10 @@
+- Cryptographic protocol that secures traffic between a client and server
+- Provides:
+	- **Confidentiality** — encryption
+	- **Integrity** — tamper detection
+	- **Authentication** — server identity via certificates
+- Sits **between the application and transport layers**
+- Predecessor of [[TLS - Transport Layer Security|TLS]]
+- **All versions deprecated** — SSL 2.0 and 3.0 have serious vulnerabilities (e.g. POODLE)
+- The term "SSL" is still widely used, but modern systems actually run TLS
+- Used by [[HTTPS - Secured HTTP|HTTPS]] to secure web traffic

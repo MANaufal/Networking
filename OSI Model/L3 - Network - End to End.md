@@ -1,0 +1,1 @@
+>In L3 IP addresses are assigned, it Involves anything that has IP. Requires multiple hops.

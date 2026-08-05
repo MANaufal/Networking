@@ -1,0 +1,11 @@
+>The transport of traffic between hosts
+- Network can:
+	- Contain other networks  (e.g. subnets)
+	- Connect to other networks (e.g. Internet)
+- Hosts in the **same network** talk directly through [[Switches]] (L2, MAC addresses)
+- Hosts in **different networks** need a [[Routers|Router]] (L3, IP addresses)
+- The **Internet** = the largest example: a network of networks
+- Common types:
+	- **LAN** — Local Area Network (home, office)
+	- **WAN** — Wide Area Network (links sites across large distances)
+	- **WLAN** — Wireless LAN (Wi-Fi)

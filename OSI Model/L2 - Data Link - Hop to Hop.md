@@ -1,0 +1,1 @@
+>L2 interacts with L1 (e.g. NIC, Wi-fi card) to assign MAC addresses. This often require communication between multiple hops (e.g. Switches, Routers)

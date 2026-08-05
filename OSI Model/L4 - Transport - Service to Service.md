@@ -1,0 +1,4 @@
+- Distinguish data Stream (TCP/UDP)
+- Address Ports
+- Server listen for request to pre-defined ports
+- client sends random port for each connection

@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "24d29079ede346d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "234afa8c58c9fc7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bb903344742ca2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Switches.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Switches"
+            }
+          },
+          {
+            "id": "babdd62087ace861",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Routers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Routers"
+            }
+          },
+          {
+            "id": "ba966ac15c36976a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subnetting/What is Subnetting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What is Subnetting"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "857a86b0be2ad2e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0630f90ba2256d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2b390a040d6d015",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0c4a20002453857d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "41a691c288312910",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.5
+  },
+  "right": {
+    "id": "ab793900d5246586",
+    "type": "split",
+    "children": [
+      {
+        "id": "35706d0340ba9dde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c82884b3d0fe56ff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Switches.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Switches"
+            }
+          },
+          {
+            "id": "9453c46d5bf43e03",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Switches.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Switches"
+            }
+          },
+          {
+            "id": "8a6c67744e3728a5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "855e80d25c00a796",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3e4654b9f7e0079f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Switches.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Switches"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "ba966ac15c36976a",
+  "lastOpenFiles": [
+    "2026-08-05.md",
+    "Subnetting/What is Subnetting.md",
+    "TCP IP",
+    "Untitled.md",
+    "Subnetting/Cheat Sheet.md",
+    "Networking Roadmap.md",
+    "Routing Table.md",
+    "Switches.md",
+    "Untitled.base",
+    "Protocols/ARP - Address Resolution Protocol.md",
+    "OSI Model/L5 - Session.md",
+    "OSI Model/L4 - Transport - Service to Service.md",
+    "OSI Model/L7 - Application.md",
+    "Subnetting",
+    "OSI Model/L6 - Presentation.md",
+    "IP Address.md",
+    "Hubs.md",
+    "Repeaters.md",
+    "Repeater.md",
+    "OSI Model/L1 - Physical.md",
+    "OSI Model/L2 - Data Link - Hop to Hop.md",
+    "OSI Model/L3 - Network - End to End.md",
+    "Protocols/SSL - Secure Sockets Layer.md",
+    "Protocols/TLS - Transport Layer Security.md",
+    "Protocols/SMTP - Simple Mail Transfer Protocol.md",
+    "Protocols/HTTPS - Secured HTTP.md",
+    "Protocols/HTTP - Hyper Text Transfer Protocol.md",
+    "Protocols/FTP - File Transfer Protocol.md",
+    "Protocols/DHCP - Dynamic Host Configuration Protocol.md",
+    "OSI Model",
+    "Protocols",
+    "Routing Table"
+  ]
+}

@@ -1,0 +1,1 @@
+>Compupter data exists in form of bits; Something need to transfer those, for example: cables, wifi, hubs, and repeaters.
